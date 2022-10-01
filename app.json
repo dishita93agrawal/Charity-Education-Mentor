@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "doubtstar-mentor-side-final-changes",
+    "slug": "snack-72f55226-1711-44c0-a6f2-a29ac99316cb",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#000000"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#000000"
+      },
+      "package": "com.gargi.doublestarmentor"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
